@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "title": "Let's Work Together!",
+    "description": "If you're interested in hearing more about how we work, have a business proposal, or want to make a purchase, we'd love to hear from you.",
+    "officeAddress": {
+      "title": "Office Address",
+      "street": "No. 209/44, Biyagama City",
+      "area": "Siyambalape South, Siyambalape",
+      "city": "Biyagama",
+      "country": "Sri Lanka"
+    },
+    "workshopAddress": {
+      "title": "Workshop Address",
+      "street": "No. 187/B2",
+      "area": "Biyagama Export Processing Road",
+      "city": "Biyagama",
+      "country": "Sri Lanka"
+    },
+    "phone": "071 413 9919 / 0112 400088",
+    "fax": "0112 400088",
+    "emails": ["machinemec@sltnet.lk", "MD@machinemecengineering.com", "palithamme@gmail.com"]
+  },
+  "offices": [
+    {
+      "name": "Head Office",
+      "address": "No. 209/44, Biyagama City, Siyambalape South, Siyambalape, Biyagama, Sri Lanka",
+      "phone": "071 413 9919 / 0112 400088",
+      "fax": "0112 400088",
+      "email": "machinemec@sltnet.lk",
+      "type": "office"
+    },
+    {
+      "name": "Workshop Facility",
+      "address": "No. 187/B2, Biyagama Export Processing Road, Biyagama, Sri Lanka",
+      "phone": "071 413 9919",
+      "email": "MD@machinemecengineering.com",
+      "type": "workshop"
+    },
+    {
+      "name": "Mumbai Headquarters",
+      "address": "123 Engineering Plaza, Mumbai, MH 400001",
+      "phone": "+91 98765 43210",
+      "email": "mumbai@machinemec.com"
+    },
+    {
+      "name": "Delhi Branch",
+      "address": "456 Construction Avenue, New Delhi, DL 110001",
+      "phone": "+91 98765 43211",
+      "email": "delhi@machinemec.com"
+    },
+    {
+      "name": "Bangalore Office",
+      "address": "789 Tech Park Road, Bangalore, KA 560001",
+      "phone": "+91 98765 43212",
+      "email": "bangalore@machinemec.com"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/machinemec-engineering"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/machinemecengineering"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/machinemec"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/machinemec"
+    }
+  ],
+  "managingDirector": {
+    "name": "Mr. Palitha Thilakarathna",
+    "email": "palithamme@gmail.com",
+    "title": "Managing Director"
+  },
+  "businessHours": {
+    "weekdays": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "saturday": "Saturday: 8:00 AM - 12:00 PM",
+    "sunday": "Sunday: Closed"
+  }
+}

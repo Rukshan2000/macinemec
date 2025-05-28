@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "id": "steel-structures",
+      "name": "Steel Structures",
+      "images": [
+        {
+          "id": "1",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Industrial Steel Framework",
+          "description": "Custom steel structure fabrication for industrial facility"
+        },
+        {
+          "id": "2",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Steel Building Construction",
+          "description": "Complete steel building with modern design"
+        },
+        {
+          "id": "3",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Warehouse Steel Structure",
+          "description": "Large-scale warehouse steel framework"
+        },
+        {
+          "id": "4",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Factory Steel Installation",
+          "description": "Precision steel structure installation"
+        }
+      ]
+    },
+    {
+      "id": "water-infrastructure",
+      "name": "Water Infrastructure",
+      "images": [
+        {
+          "id": "5",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Water Treatment Plant",
+          "description": "Modern water treatment facility construction"
+        },
+        {
+          "id": "6",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Water Sump Construction",
+          "description": "Underground water storage system"
+        },
+        {
+          "id": "7",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Filtration System",
+          "description": "Advanced water filtration installation"
+        },
+        {
+          "id": "8",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Pumping Station",
+          "description": "Water pumping station construction"
+        }
+      ]
+    },
+    {
+      "id": "building-construction",
+      "name": "Building Construction",
+      "images": [
+        {
+          "id": "9",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Commercial Building",
+          "description": "Multi-story commercial construction"
+        },
+        {
+          "id": "10",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Industrial Facility",
+          "description": "Modern industrial building construction"
+        },
+        {
+          "id": "11",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Office Complex",
+          "description": "Corporate office building project"
+        },
+        {
+          "id": "12",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Residential Complex",
+          "description": "Modern residential building construction"
+        }
+      ]
+    },
+    {
+      "id": "machine-installation",
+      "name": "Machine Installation",
+      "images": [
+        {
+          "id": "13",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Industrial Machinery Setup",
+          "description": "Professional machine installation services"
+        },
+        {
+          "id": "14",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Production Line Installation",
+          "description": "Complete production line setup"
+        },
+        {
+          "id": "15",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Heavy Equipment Installation",
+          "description": "Heavy machinery installation and commissioning"
+        },
+        {
+          "id": "16",
+          "url": "/placeholder.svg?height=400&width=600",
+          "title": "Automated Systems",
+          "description": "Automated machinery installation"
+        }
+      ]
+    }
+  ]
+}

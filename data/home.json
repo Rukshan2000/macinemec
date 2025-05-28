@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "title": "Machinemec Engineering",
+    "subtitle": "Premier Steel Builders & Engineering Experts in Sri Lanka",
+    "description": "Designing & Construction of Buildings, Water Sumps, Treatment Plants & Steel Structures",
+    "tagline": "Complete Engineering Solutions • Machine Installation • Quality Assurance",
+    "ctaText": "Learn More",
+    "backgroundImage": "/placeholder.svg?height=800&width=1200"
+  },
+  "services": [
+    {
+      "id": "1",
+      "title": "Building Construction",
+      "description": "Designing & construction of buildings with modern technology and quality assurance",
+      "icon": "🏗️"
+    },
+    {
+      "id": "2",
+      "title": "Water Infrastructure",
+      "description": "Construction of water sumps and treatment plants with advanced engineering solutions",
+      "icon": "💧"
+    },
+    {
+      "id": "3",
+      "title": "Steel Structures",
+      "description": "Designing, fabrication & installation of all steel structures with precision engineering",
+      "icon": "🏭"
+    },
+    {
+      "id": "4",
+      "title": "Machine Installation",
+      "description": "Complete machine installation services with technical expertise and safety compliance",
+      "icon": "⚙️"
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Reliable Construction Services",
+      "description": "Trusted by clients across Sri Lanka for consistent quality and timely delivery"
+    },
+    {
+      "title": "Modern Technology Integration",
+      "description": "Leveraging cutting-edge technology for superior engineering solutions"
+    },
+    {
+      "title": "Skilled Workforce & Quality Assurance",
+      "description": "Dedicated team of professionals committed to excellence and safety"
+    }
+  ],
+  "stats": [
+    {
+      "number": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "number": "100%",
+      "label": "Client Satisfaction"
+    },
+    {
+      "number": "24/7",
+      "label": "Support Available"
+    }
+  ]
+}

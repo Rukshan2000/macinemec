@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "id": "steel-structure-factory",
+      "title": "Industrial Steel Structure Factory",
+      "category": "Steel Structures",
+      "description": "Complete designing, fabrication and installation of steel structures for a major industrial facility with advanced machine installation",
+      "shortDescription": "Large-scale steel structure fabrication and installation",
+      "image": "/placeholder.svg?height=400&width=600",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ],
+      "details": {
+        "client": "Industrial Manufacturing Corp",
+        "duration": "18 months",
+        "budget": "LKR 150M",
+        "location": "Biyagama, Sri Lanka",
+        "status": "Completed",
+        "completionDate": "2024-02-15"
+      },
+      "features": [
+        "Custom steel structure design",
+        "Precision fabrication techniques",
+        "Professional installation services",
+        "Machine integration and setup",
+        "Quality assurance testing"
+      ],
+      "technologies": ["Advanced Steel Fabrication", "CAD Design", "Machine Installation", "Quality Control Systems"]
+    },
+    {
+      "id": "water-treatment-plant",
+      "title": "Municipal Water Treatment Plant",
+      "category": "Water Infrastructure",
+      "description": "Design and construction of a comprehensive water treatment facility with advanced filtration and purification systems",
+      "shortDescription": "Modern water treatment plant construction",
+      "image": "/placeholder.svg?height=400&width=600",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ],
+      "details": {
+        "client": "Municipal Council",
+        "duration": "24 months",
+        "budget": "LKR 200M",
+        "location": "Colombo District, Sri Lanka",
+        "status": "In Progress",
+        "completionDate": "2025-08-30"
+      },
+      "features": [
+        "Advanced water filtration systems",
+        "Automated control mechanisms",
+        "Environmental compliance",
+        "Sustainable design principles",
+        "24/7 monitoring capabilities"
+      ],
+      "technologies": [
+        "Water Treatment Technology",
+        "Automation Systems",
+        "Environmental Engineering",
+        "Quality Monitoring"
+      ]
+    },
+    {
+      "id": "commercial-building-complex",
+      "title": "Commercial Building Complex",
+      "category": "Building Construction",
+      "description": "Multi-story commercial building with modern amenities and sustainable construction practices",
+      "shortDescription": "Modern commercial building construction",
+      "image": "/placeholder.svg?height=400&width=600",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ],
+      "details": {
+        "client": "Commercial Development Ltd",
+        "duration": "30 months",
+        "budget": "LKR 300M",
+        "location": "Colombo, Sri Lanka",
+        "status": "Completed",
+        "completionDate": "2023-11-20"
+      },
+      "features": [
+        "Modern architectural design",
+        "Energy-efficient systems",
+        "Advanced safety features",
+        "Sustainable materials",
+        "Smart building integration"
+      ],
+      "technologies": ["Modern Construction", "Energy Systems", "Safety Technology", "Smart Building Solutions"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "company": {
+    "name": "Machinemec Engineering (Pvt) Ltd",
+    "founded": "2009",
+    "mission": "To become the preferred provider of superior construction services by delivering quality, flexibility, and honesty, embracing technological advancements, and valuing professionalism, safety, and social responsibility.",
+    "vision": "To become the premier steel builder of the Nation.",
+    "description": "Machinemec Engineering (Pvt) Ltd is committed to being the most reliable and sought-after steel fabrication and construction company in Sri Lanka. We leverage modern technology and a dedicated workforce to deliver quality and sustainable engineering solutions.",
+    "incorporationNo": "PV - 14942",
+    "vatNo": "114448630 - 7000",
+    "svatNo": "002868"
+  },
+  "values": [
+    {
+      "title": "Partnership",
+      "description": "Building strong partnerships with external providers for comprehensive solutions"
+    },
+    {
+      "title": "Safety & Compliance",
+      "description": "Unwavering commitment to safety standards and legal compliance in all operations"
+    },
+    {
+      "title": "Continuous Improvement",
+      "description": "Dedicated to continuous process improvement and innovation in engineering"
+    },
+    {
+      "title": "Professionalism",
+      "description": "Maintaining the highest standards of professionalism and integrity in all dealings"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Mr. Palitha Thilakarathna",
+      "position": "Managing Director",
+      "experience": "20+ years",
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Visionary leader driving Machinemec Engineering towards excellence in steel fabrication and construction."
+    }
+  ],
+  "services": [
+    {
+      "title": "Designing & Construction of Buildings",
+      "description": "Complete building construction services from concept to completion"
+    },
+    {
+      "title": "Water Infrastructure",
+      "description": "Construction of water sumps and treatment plants"
+    },
+    {
+      "title": "Steel Structure Solutions",
+      "description": "Designing, fabrication & installation of all steel structures"
+    },
+    {
+      "title": "Machine Installation",
+      "description": "Professional machine installation with technical expertise"
+    }
+  ],
+  "certifications": [
+    "Incorporation Certificate No: PV - 14942",
+    "VAT Registration No: 114448630 - 7000",
+    "SVAT Registration No: 002868",
+    "ISO Quality Management Standards"
+  ]
+}
